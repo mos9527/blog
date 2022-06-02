@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>monsieur&#39;s writing blogs again</title>
+  
+  
+  <link href="https://mos9527.github.io/blog/atom.xml" rel="self"/>
+  
+  <link href="https://mos9527.github.io/blog/"/>
+  <updated>2022-06-02T23:19:24.366Z</updated>
+  <id>https://mos9527.github.io/blog/</id>
+  
+  <author>
+    <name>mos9527</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Here we go</title>
+    <link href="https://mos9527.github.io/blog/2022/06/03/hello-world/"/>
+    <id>https://mos9527.github.io/blog/2022/06/03/hello-world/</id>
+    <published>2022-06-03T00:00:00.000Z</published>
+    <updated>2022-06-02T23:19:24.366Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
