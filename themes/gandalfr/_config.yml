@@ -1,0 +1,23 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Rss: /atom.xml
+
+favicon: /favicon.ico
+logo: https://avatars.githubusercontent.com/u/31397301?v=4
+
+# Comment
+# e.g disqus: helloworld
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+# ga: UA-65933410-1
+
+# Copyright Infomation
+startyear: 2022
+
+# Styles shoule be found in the list: https://highlightjs.org/static/demo/
+# use the lowercase letters and replace space with -
+codestyle: solarized-light
